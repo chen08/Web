@@ -1,0 +1,12 @@
+{
+    "nature": "个人",         //备案性质，个人 or 企业
+    "icp": "京ICP备13051813号",        //主备案号
+    "indexUrl": "www.sojson.com",   //首页
+    "sitename": "我们的JSON",      //备案的名称
+    "domain": " sojson.com ",       //备案的一级域名
+    "nowIcp": "京ICP备13051813号-5",   //当前域名的备案号
+    "type": 200,            //备案查询状态
+    "search": "sojson.com",     //你查询的信息
+    "checkDate": "2013-12-16"       //备案信息检查时间
+    "name": "杜占召"           //个人是备案人名称，公司是公司名称
+}
